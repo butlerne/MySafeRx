@@ -1,0 +1,108 @@
+.big_list {
+	font-size: 50px;
+	color: #fff;
+}
+
+.bluebg {
+	background-color:#3f6486;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+    padding: 10px 20px;
+    font-size: 25px;
+}
+
+.card {
+	box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+	background-color: #fff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 0px auto;
+	width: 370px;
+}
+
+.col-sm-12 {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.col-sm-6 {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.footer {
+	background-color: #666;
+	color: #fff;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+.graybg {
+	background-color:#f2f2f2;
+	padding-bottom: 50px;
+}
+
+h1 {
+	margin-top: 10px;
+	color: #666;
+}
+
+h2 {
+	color: #666;
+}
+
+h3 {
+	color:#666;
+	margin-top:10px;
+}
+
+h4 {
+	color: #999;
+}
+
+.header_blue {
+	color: #289bd3;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+hr {
+	border-top: 1px solid #ccc !important;
+	background-color: #ccc;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.modal-content{
+	background-color: #f2f2f2;
+	}
+	.btn-link{
+		color:white;
+	}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-nav > li > a {
+	font-size: 18px;
+	color: #888;
+}
+
+.navbar-nav > li.active > a {
+	color: #289bd3;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: #3f6486;
+}
+
+.whitebg {
+	background-color:#ffffff;
+	padding-bottom: 50px;
+}
